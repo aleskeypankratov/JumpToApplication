@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JumpToApplication</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="open_mail">Open Mail</string>
+    <string name="open_phone">Open Phone</string>
+    <string name="enter_link">Enter link</string>
+    <string name="enter_mail">Enter mail</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="open_map">Open map</string>
+    <string name="enter_latitude">Enter latitude</string>
+    <string name="enter_longitude">Enter longitude</string>
+</resources>
